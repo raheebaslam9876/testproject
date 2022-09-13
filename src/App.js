@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+<<<<<<< HEAD
 import axios from 'axios';
 import { useState, useEffect } from "react";
 import './App.css';
@@ -49,4 +50,20 @@ class App extends React.Component {
 }
 
 
+=======
+import './App.css';
+import Usergreeting from './Usergreeting';
+import Listrendering from './Listrendering';
+import Form from './Form';
+import Ref from './Ref';
+import FRParent from './FRParent';
+function App() {
+  return (
+    <>
+      <FRParent />
+    </>
+  );
+}
+
+>>>>>>> c93c8a208f8fb2f5de7657c22ef618aa8cbc5e32
 export default App;
