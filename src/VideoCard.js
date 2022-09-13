@@ -10,7 +10,7 @@ const Videocard = (props) => {
                         <div class="description">{props.data.snippet.title}</div>
                     </div>
                 </div>
-            </div>  
+            </div>
         </>
     );
 }
