@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 iframe {
   height: 0px !important;
   width: 0px !important;
@@ -25,7 +25,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-=======
+}
 .App {
   text-align: center;
 }
@@ -63,5 +63,4 @@ body {
   to {
     transform: rotate(360deg);
   }
->>>>>>> c93c8a208f8fb2f5de7657c22ef618aa8cbc5e32
 }
